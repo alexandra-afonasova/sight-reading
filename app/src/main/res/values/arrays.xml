@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="notes">
+        <item>@drawable/note0</item>
+        <item>@drawable/note1</item>
+        <item>@drawable/note2</item>
+        <item>@drawable/note3</item>
+        <item>@drawable/note4</item>
+        <item>@drawable/note5</item>
+        <item>@drawable/note6</item>
+        <item>@drawable/note7</item>
+        <item>@drawable/note8</item>
+        <item>@drawable/note9</item>
+        <item>@drawable/note10</item>
+        <item>@drawable/note11</item>
+        <item>@drawable/note12</item>
+        <item>@drawable/note13</item>
+        <item>@drawable/note14</item>
+        <item>@drawable/note15</item>
+        <item>@drawable/note16</item>
+        <item>@drawable/note17</item>
+        <item>@drawable/note18</item>
+        <item>@drawable/note19</item>
+        <item>@drawable/note20</item>
+        <item>@drawable/note21</item>
+        <item>@drawable/note22</item>
+        <item>@drawable/note23</item>
+        <item>@drawable/note24</item>
+        <item>@drawable/note25</item>
+    </array>
+
+</resources>
